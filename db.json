@@ -1,0 +1,56 @@
+{
+ "users": [
+  {
+   "id": "stark",
+   "name": "Tony Stark",
+   "cardIds": ["C01", "C02", "C03", "C04"]
+  },
+  {
+   "id": "rogers",
+   "name": "Steve Rogers",
+   "cardIds": ["C05", "C06", "C07", "C08"]
+  }
+ ],
+ "cards": [
+  {
+   "id": "C01",
+   "title": "Sometimes you gotta run before you walk.",
+   "description": "n the very first Iron Man movie, Tony tests out his latest toy, the Mark II suit. When J.A.R.V.I.S. suggests a scan of the upgrade to be on the safe side, Stark shrugs off his A.I. pal's suggestion and takes the risk anyway"
+  },
+  {
+   "id": "C02",
+   "title": "Is it better to be feared or respected? I say, is it too much to ask for both?",
+   "description": "While presenting Stark Industries' Freedom Line — a missile system designed by Stark himself — the hero and businessman opens with this killer line, which you can't really argue with"
+  },
+  {
+   "id": "C03",
+   "title": "Let's face it, this is not the worst thing you've caught me doing",
+   "description": "When his former personal assistant, now partner and CEO, Pepper (Gwyneth Paltrow) first sees him tinkering and suiting up in his lab, a very self-aware Mr. Stark offers this suggestive retort"
+  },
+  {
+   "id": "C04",
+   "title": "I am Iron Man.",
+   "description": "At the end of his first standalone movie, Stark sets the record straight on live television and reveals his true identity, much to the whole room's — and whole world's — surprise. While Agent Coulson (Clark Gregg) of S.H.I.E.L.D. instructs that he stick to his alibi, he can't help but just admit it. And the press conference goes wild."
+  },
+  {
+   "id": "C05",
+   "title": "I CAN DO THIS ALL DAY",
+   "description": "Probably the most memorable and quotes Steve Rogers line from the MCU is the above quote. This line really gets to everything that Captain America stands for. This is a man who believes that if you get knocked down a million times, you get up a million and one times. He doesn’t back down and can even sometimes be too stubborn. But, these qualities are what make him willing to sacrifice himself for others and do whatever he must to save the world"
+  },
+  {
+   "id": "C06",
+   "title": "I DON’T LIKE BULLIES. I DON’T CARE WHERE THEY’RE FROM",
+   "description": "One of the best things about Cap is how he stands up for the little guy. He was a little guy himself who never backed down from a fight. His commitment to standing up for people who can’t fight for themselves is admirable, and this is one of his best and most inspiring lines from the entire MCU"
+  },
+  {
+   "id": "C07",
+   "title": "I'm not looking for forgiveness, and I'm way past asking for permission.",
+   "description": "In Avengers: Infinity War, Captain America is a fugitive from the law and done playing by other people’s rules."
+  },
+  {
+   "id": "C08",
+   "title": "The price of freedom is high, it always has been. And it's a price I'm willing to pay. And if I'm the only one, then so be it.",
+   "description": "A quote about freedom has to be included on a list of Captain America’s most inspiring quotes since he is a symbol of America. Coming from the World War II generation and time period, Cap has a lot to say about freedom and what America should stand for"
+  }
+ ]
+}
